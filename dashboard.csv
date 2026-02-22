@@ -1,4 +1,7 @@
-﻿Environmanet,Migration_Date,Customer,Database,Version,URL
-prod,2026-02-10,allstate,prod_allstate,2025R2,allstate.ra.com
-prod,2026-02-10,usaa,prod_usaa,2025R2,usaa.ra.com
-prod,2026-02-11,comcast,prod_comcast,2025R2,comcast.ra.com
+﻿Environmanet,Migration_Date,Customer,Database,Database_server,Version,URL
+prod,2026-02-10T00:00:00.000,allstate,prod_allstate,AGL-RTAPR98,2025R2,https://allstate.ra.com
+prod,2026-02-10T00:00:00.000,usaa,prod_usaa,AGL-RTAPR98,2025R2,https://usaa.ra.com
+prod,2026-02-11T00:00:00.000,comcast,prod_comcast,AGL-RTAPR98,2025R2,https://comcast.ra.com
+Dev,2026-02-10T00:00:00.000,allstate,dev_allstate,rtadev01,2025R2,https://allstate-dev.ra.com
+Dev,2026-02-10T00:00:00.000,usaa,dev_usaa,rtadev01,2025R2,https://usaa-dev.ra.com
+Dev,2026-02-11T00:00:00.000,comcast,dev_comcast,rtadev01,2025R2,https://comcast-dev.ra.com
